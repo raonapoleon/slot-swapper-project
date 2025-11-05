@@ -1,4 +1,4 @@
-# SlotSwapper - ServiceHive Full Stack Challenge
+# SlotSwapper 
 
 This is a full-stack MERN application built for the ServiceHive technical challenge. It's a peer-to-peer time-slot scheduling application that allows users to post their busy slots and swap them with other users.
 
